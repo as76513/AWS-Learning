@@ -72,4 +72,3 @@ These policies are attached to AWS resources directly and define **who can acces
 | Permission Boundary   | Attached to Identity        | Limits                    |           |
 | Session Policy        | Temporary Session           | Limits                    |           |
 | VPC Endpoint Policy   | VPC level Traffic Filtering | Limits                    |           |
-|                       |                             |                           |           |
