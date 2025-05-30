@@ -2,4 +2,4 @@
 
 Welcome to the AWS Access Control Wiki. Below are the available pages:
 
-- [🔐 AWS Access Control Overview]([AWS-Access-Control.md](Access%20Control%20Policies/AWS-Access-Control.md))
+- [🔐 AWS Access Control Overview]([AWS-Access-Control.md](Access-Control-Policies/AWS-Access-Control.md))
