@@ -63,3 +63,13 @@ These policies are attached to AWS resources directly and define **who can acces
   - Overly permissive IAM/resource policies
   - Unused permissions
   - Cross-account or public access
+
+| Type                  | Scope                       | Grants or Limits Access ? | Use Cases |
+|-----------------------|-----------------------------|---------------------------|-----------|
+| SCP                   | Org / Account Wide          | Limits Only               |           |
+| IAM Policy            | Principal (User /Role )     | Grants                    |           |
+| Resource Based Policy | Resource Itself             | Grants                    |           |
+| Permission Boundary   | Attached to Identity        | Limits                    |           |
+| Session Policy        | Temporary Session           | Limits                    |           |
+| VPC Endpoint Policy   | VPC level Traffic Filtering | Limits                    |           |
+|                       |                             |                           |           |
